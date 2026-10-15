@@ -1,1 +1,1 @@
-## I'm learning new algorithms using Python. Come and see my progress! (´･ᴗ･ ` )
+## I'm learning new algorithms. Come and see my progress! (´･ᴗ･ ` )
